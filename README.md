@@ -157,7 +157,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=flaviomessina&show_icons=true&theme=noctis_minimus&count_private=true" alt="Flavio's GitHub Stats" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=flaviomessina&show_icons=true&include_all_commits=true&theme=noctis_minimus&count_private=true" alt="Flavio's GitHub Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviomessina&layout=compact&theme=noctis_minimus" alt="Flavio's Top Languages" />
