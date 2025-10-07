@@ -169,7 +169,7 @@
 <h2 align="center">📫 How to Reach Me / Come Contattarmi</h2>
 
 <p align="center">
-  <a href="mailto:flavio.messina@gmail.com">
+  <a href="mailto:messinaflavio00@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/flavio-messina-5a0b88294">
